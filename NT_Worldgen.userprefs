@@ -2,8 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WorldGen\WorldGenerator.cs">
     <Files>
-      <File FileName="Assets\WorldGen\WorldGenerator.cs" Line="1" Column="19" />
-      <File FileName="Assets\WorldGen\Tile.cs" Line="1" Column="12" />
+      <File FileName="Assets\WorldGen\WorldGenerator.cs" Line="21" Column="18" />
+      <File FileName="Assets\WorldGen\Tile.cs" Line="4" Column="16" />
+      <File FileName="Assets\WorldGen\FloorWalker.cs" Line="18" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
